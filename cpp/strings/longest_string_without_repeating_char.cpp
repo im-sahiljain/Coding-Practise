@@ -11,9 +11,9 @@ int solve(string str) {
   int maxans = INT_MIN;
   unordered_set < int > set;
   int l = 0;
-  for (int r = 0; r < str.length(); r++) // outer loop for traversing the string
+  for (int r = 0; r < str.length(); r++) 
   {
-    if (set.count(str[r])) //if duplicate element is found
+    if (set.count(str[r])) 
     {
       while (l < r && set.find(str[r]) != set.end()) {
         set.erase(str[l]);
@@ -27,7 +27,7 @@ int solve(string str) {
 }
 
 int main() {
-  string str = "takeUforward";
+  string str = "iamsahiljain";
   cout << "The length of the longest substring without repeating characters is " << 
   solve(str);
   return 0;
