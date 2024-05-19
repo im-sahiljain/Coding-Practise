@@ -32,7 +32,7 @@ This repository is dedicated to my journey of mastering Data Structures and Algo
 
 To get started with this repository, you can clone it to your local machine using the following command:
 
-<code> git clone https://github.com/yourusername/DSA-Practice.git </code>
+<code> git clone https://github.com/im-sahiljain/Coding-Practise.git </code>
 
 Navigate to the directory of your choice to explore the codes:
 
