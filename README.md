@@ -9,9 +9,6 @@ Welcome to the Data Structures and Algorithms (DSA) Practice Repository! This re
 - [Topics Covered](#topics-covered)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -37,4 +34,18 @@ To get started with this repository, you can clone it to your local machine usin
 
 <code> git clone https://github.com/yourusername/DSA-Practice.git </code>
 
+Navigate to the directory of your choice to explore the codes:
 
+<code> cd DSA-Practice/Python/Arrays</code>
+
+##Usage
+
+You can run the Python scripts using the Python interpreter:
+
+<code> python script_name.py </code>
+
+For C++ programs, you can compile and run them using a C++ compiler like g++:
+<code>g++ script_name.cpp -o script_name
+./script_name</code>
+
+Feel free to modify and experiment with the codes to better understand the concepts.
