@@ -12,7 +12,7 @@ Welcome to the Data Structures and Algorithms (DSA) Practice Repository! This re
 
 ## Introduction
 
-This repository is dedicated to my journey of mastering Data Structures and Algorithms. Here, I will be pushing all the codes that I am practicing. The repository is divided based on topics and further categorized by the programming language used.
+This repository is dedicated to my journey of mastering Data Structures and Algorithms. Here, I will be pushing all the codes that I am practicing. The repository is divided based on Languages and further categorized by the Data Structures used.
 
 ## Languages Used
 
