@@ -23,6 +23,7 @@ This repository is dedicated to my journey of mastering Data Structures and Algo
 
 - Arrays
 - Strings
+- Linked List
 - Maps (Dictionaries in Python)
 - Sets
 - File Handling
@@ -36,7 +37,7 @@ To get started with this repository, you can clone it to your local machine usin
 
 Navigate to the directory of your choice to explore the codes:
 
-<code> cd DSA-Practice/Python/Arrays</code>
+<code> cd Coding-Practise/Python/Arrays</code>
 
 ##Usage
 
