@@ -1,0 +1,40 @@
+INFO 2024-05-18 10:00:00 Starting the process
+ERROR 2024-05-18 10:01:00 Connection failed
+INFO 2024-05-18 10:02:00 Retrying connection
+WARN 2024-05-18 10:03:00 High memory usage
+INFO 2024-05-18 10:04:00 Process completed
+INFO 2024-05-18 10:00:00 Starting the process
+ERROR 2024-05-18 10:01:00 Connection failed
+INFO 2024-05-18 10:02:00 Retrying connection
+WARN 2024-05-18 10:03:00 High memory usage
+INFO 2024-05-18 10:04:00 Process completed
+INFO 2024-05-18 10:00:00 Starting the process
+ERROR 2024-05-18 10:01:00 Connection failed
+INFO 2024-05-18 10:02:00 Retrying connection
+WARN 2024-05-18 10:03:00 High memory usage
+INFO 2024-05-18 10:04:00 Process completed
+INFO 2024-05-18 10:05:00 Process started again
+DEBUG 2024-05-18 10:06:00 Debugging mode enabled
+ERROR 2024-05-18 10:07:00 Failed to load configuration
+INFO 2024-05-18 10:08:00 Loaded configuration successfully
+WARN 2024-05-18 10:09:00 Low disk space
+ERROR 2024-05-18 10:10:00 Disk space critically low
+INFO 2024-05-18 10:11:00 Disk cleanup started
+INFO 2024-05-18 10:12:00 Disk cleanup finished
+ERROR 2024-05-18 10:13:00 Connection timeout
+INFO 2024-05-18 10:14:00 Attempting reconnection
+INFO 2024-05-18 10:15:00 Reconnected successfully
+ERROR 2024-05-18 10:16:00 Connection failed
+INFO 2024-05-18 10:17:00 Retrying connection
+INFO 2024-05-18 10:18:00 Process completed
+INFO 2024-05-18 10:19:00 Process started again
+DEBUG 2024-05-18 10:20:00 Debugging mode enabled
+ERROR 2024-05-18 10:21:00 Failed to load configuration
+INFO 2024-05-18 10:22:00 Loaded configuration successfully
+WARN 2024-05-18 10:23:00 Low disk space
+ERROR 2024-05-18 10:24:00 Disk space critically low
+INFO 2024-05-18 10:25:00 Disk cleanup started
+INFO 2024-05-18 10:26:00 Disk cleanup finished
+ERROR 2024-05-18 10:27:00 Connection timeout
+INFO 2024-05-18 10:28:00 Attempting reconnection
+INFO 2024-05-18 10:29:00 Reconnected successfully
